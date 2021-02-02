@@ -1,0 +1,4 @@
+com\test\hplus\ApplicationConfig.class
+com\test\hplus\HplusappApplication.class
+com\test\hplus\controllers\HomeController.class
+com\test\hplus\ServletInitializer.class
